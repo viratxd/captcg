@@ -1,0 +1,7 @@
+load_system_dawg false
+load_freq_dawg false
+load_unambig_dawg false
+load_punc_dawg	false
+load_number_dawg false
+load_bigram_dawg false
+tessedit_char_whitelist ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789abcdefghijklmnopqrstuvwxyz
